@@ -1,0 +1,10 @@
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\bin\Debug\WinFrmApp_WindowsKinectSDK.exe.config
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\bin\Debug\WinFrmApp_WindowsKinectSDK.exe
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\bin\Debug\WinFrmApp_WindowsKinectSDK.pdb
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.csprojResolveAssemblyReference.cache
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.frmKinect.resources
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.Properties.Resources.resources
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.csproj.GenerateResource.Cache
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.exe
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\obj\Debug\WinFrmApp_WindowsKinectSDK.pdb
+c:\users\ediz\documents\visual studio 2012\Projects\WinFrmApp_WindowsKinectSDK\WinFrmApp_WindowsKinectSDK\bin\Debug\Coding4Fun.Kinect.WinForm.dll
